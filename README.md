@@ -1,4 +1,6 @@
-<img align="center" src="banner.png"/>
+<div align="center">
+  <img height="285" src="banner.png"/>
+</div>
 
 <div align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=gisanches&theme=dracula&show_icons=true" />
