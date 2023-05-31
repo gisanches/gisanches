@@ -1,6 +1,6 @@
 <div align="center">
-  <img height="200" style="margin-right: 1.5rem" src="https://github-readme-stats.vercel.app/api?username=gisanches&theme=dracula&show_icons=true" />
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gisanches&theme=dracula" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=gisanches&theme=dracula&show_icons=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gisanches&theme=dracula" />
 </div>
 
 <div align="center">
