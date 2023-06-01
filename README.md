@@ -16,10 +16,10 @@
 </div><br>
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=gisanches&theme=dracula&show_icons=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gisanches&theme=dracula" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=gisanches&theme=dracula&bg_color=80,282a36,3e4a7a&show_icons=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gisanches&theme=dracula&bg_color=45,282a36,3e4a7a" />
 </div>
 
 <div align="center">
-  <img width="765" src="https://github-readme-streak-stats.herokuapp.com/?user=gisanches&show_icons=true&locale=en&layout=compact&theme=dracula&line_height=0"/>
+  <img width="765" src="https://github-readme-streak-stats.herokuapp.com/?user=gisanches&show_icons=true&locale=en&layout=compact&theme=dracula&background=45,282a36,3e4a7a&line_height=0"/>
 </div>
