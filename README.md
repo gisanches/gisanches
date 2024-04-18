@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="187" src="banner-gi.png"/>
+  <img height="180" src="banner-gi.png"/>
 </div>
 
 <div style="display: inline_block" align="center"><br>
@@ -16,6 +16,6 @@
 </div><br>
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=gisanches&theme=dracula&bg_color=80,282a36,3e4a7a&show_icons=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gisanches&theme=dracula&bg_color=45,282a36,3e4a7a" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=gisanches&theme=dracula&bg_color=150,282a36,3e4a7a&show_icons=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gisanches&theme=dracula&bg_color=150,282a36,3e4a7a" />
 </div>
