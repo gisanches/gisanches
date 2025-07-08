@@ -1,12 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=1000&pause=1000&color=F7F7F7&random=false&width=435&lines=Ol%C3%A1!+Bem+vindo+(a)+ao+meu+GitHub!;Hello!+Welcome+to+my+GitHub!)](https://git.io/typing-svg)
-
-Sou uma desenvolvedora com experiência em JavaScript, BootStrap, HTML, CSS e jQuery. 
-
-Atualmente, estou trabalhando com essas tecnologias, criando interfaces estratégicas e eficientes ao usuário.
-
-Além de possuir experiência como Frontend, também realizo atividades como Backend utilizando PHP e PostgreSQL.
-
-Tenho me dedicado ao desenvolvimento de projetos utilizando TypeScript, Vue, React e Angular, aplicando Skills como UI/UX Design e Design Thinking.
 <br>
 
 
