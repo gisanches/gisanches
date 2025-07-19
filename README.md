@@ -22,7 +22,7 @@ I'm a **Full Stack Developer** with over **two years** of experience building sc
 
 **Database:** ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) [![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#)
 
-**Tools:** ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white) 
+**Tools:** ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 <hr style="height:2px; background-color:#999; border:none;" />
 <img src="https://raw.githubusercontent.com/gisanches/gisanches/output/snake.svg" alt="Snake animation" />
@@ -35,12 +35,9 @@ I'm a **Full Stack Developer** with over **two years** of experience building sc
 </div>
 <br>
 
-<<<<<<< HEAD
 <p align="center">
   <img
     src="https://img.shields.io/endpoint?url=https://your-domain.vercel.app/api/visits-json&cacheSeconds=60"
     alt="GISanches Visits"
   />
 </p>
-=======
->>>>>>> 625d007921ac76bfe15d107522b4484a79500899
