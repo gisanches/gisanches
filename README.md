@@ -31,5 +31,5 @@ I'm a **Full Stack Developer** with over **two years** of experience building sc
 
 <div align="center" width="100%">
   <img width="70%" src="https://github-readme-stats.vercel.app/api?username=gisanches&theme=dracula&show_icons=true" />
-  <img width="20%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gisanches&theme=dracula" />
+  <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gisanches&theme=dracula" />
 </div>
