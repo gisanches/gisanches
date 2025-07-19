@@ -30,6 +30,6 @@ I'm a **Full Stack Developer** with over **two years** of experience building sc
 </div>
 
 <div align="center" width="65%">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=gisanches&theme=dracula&show_icons=true" />
-  <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gisanches&theme=dracula" />
+  <img width="52%" src="https://github-readme-stats.vercel.app/api?username=gisanches&theme=dracula&show_icons=true" />
+  <img width="28%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gisanches&theme=dracula" />
 </div>
