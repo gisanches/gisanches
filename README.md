@@ -35,7 +35,3 @@ I'm a **Full Stack Developer** with over **two years** of experience building sc
 </div>
 <br>
 
-<p align="center">
-  <img src="https://img.shields.io/endpoint?url=https://visit-counter-kappa.vercel.app/api/visits-json&cacheSeconds=10" alt="Visits" />
-</p>
-
