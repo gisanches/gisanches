@@ -26,7 +26,7 @@ I'm a **Full Stack Developer** with over **two years** of experience building sc
 
 <img src="https://raw.githubusercontent.com/gisanches/gisanches/output/snake.svg" alt="Snake animation" />
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=gisanches.gisanches&"  />
+ <img src="https://visitor-badge.laobi.icu/badge?page_id=gisanches.gisanches&left_color=%23b794f4&right_color=%23d280cf" />
 </div>
 
 ###
