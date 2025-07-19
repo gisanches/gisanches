@@ -35,7 +35,4 @@ I'm a **Full Stack Developer** with over **two years** of experience building sc
 </div>
 <br>
 
-![Visits](https://img.shields.io/endpoint
-  ?url=https://visit-counter-kappa.vercel.app/api/visits-json
-  &cacheSeconds=60)
-
+![Visits](https://img.shields.io/endpoint?url=https://visit-counter-kappa.vercel.app/api/visits-json&cacheSeconds=60)
