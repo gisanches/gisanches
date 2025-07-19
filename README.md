@@ -29,5 +29,7 @@ I'm a **Full Stack Developer** with over **two years** of experience building sc
   <img width="63%" src="https://github-readme-stats.vercel.app/api?username=gisanches&theme=dracula&show_icons=true" />
   <img width="32.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gisanches&theme=dracula" />
 </div>
-
-
+<br>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gisanches&color=a626c9" alt="Profile views" />
+</p>
