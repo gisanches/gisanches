@@ -26,7 +26,7 @@ I'm a **Full Stack Developer** with over **two years** of experience building sc
 <img src="https://raw.githubusercontent.com/gisanches/gisanches/output/snake.svg" alt="Snake animation" />
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" width="95%" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" width="95%" height="50%" alt="streak graph"  />
 </div>
 
 <div align="center" width="100%">
