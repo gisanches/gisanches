@@ -1,0 +1,29 @@
+name: Update Visitor Count
+
+on:
+  schedule:
+    - cron: "0 * * * *" # Atualiza a cada hora
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Get visit count
+        run: |
+          curl -s https://api.countapi.xyz/hit/gisanches.github.readme/visits > views.json
+
+      - name: Update README
+        run: |
+          VISITS=$(cat views.json | grep -oP '"value":\K\d+')
+          sed -i "s/🔢 Visits: .*/🔢 Visits: $VISITS/" README.md
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add README.md
+          git commit -m "update visitor count"
+          git push
