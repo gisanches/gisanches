@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&letterSpacing=0.5px&duration=1000&pause=1000&color=F7F7F7&width=500&height=35&lines=🤍+Ol%C3%A1!+Bem+vindo(a)+ao+meu+GitHub!;🤍+Hello!+Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+[![Typing SVG](<https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&letterSpacing=0.5px&duration=1000&pause=1000&color=F7F7F7&width=500&height=35&lines=🤍+Ol%C3%A1!+Bem+vindo(a)+ao+meu+GitHub!;🤍+Hello!+Welcome+to+my+GitHub!>)](https://git.io/typing-svg)
 
 I'm a **Full Stack Developer** with over **two years** of experience building scalable and maintainable applications across both **frontend** and **backend**. I focus on writing clean, efficient code and applying modern web technologies to solve real-world problems. I'm continuously improving my skills to deliver reliable solutions and contribute effectively to team goals!
 
@@ -11,8 +11,7 @@ I'm a **Full Stack Developer** with over **two years** of experience building sc
 🎓 Graduated in Systems Analysis and Development at FATEC  
 💻 Experience in both frontend and backend development  
 🌎 Exploring new technologies and building software solutions  
-🧠 Interested in collaborative projects and continuous learning  
-
+🧠 Interested in collaborative projects and continuous learning
 
 ## 🛠️ Tech Skills
 
@@ -27,3 +26,5 @@ I'm a **Full Stack Developer** with over **two years** of experience building sc
 <img src="https://raw.githubusercontent.com/gisanches/gisanches/output/snake.svg" alt="Snake animation" />
 
 ###
+
+🔢 Visits: 0
