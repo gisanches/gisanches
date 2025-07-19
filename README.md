@@ -12,12 +12,7 @@ I'm a **Full Stack Developer** with over **two years** of experience building sc
 🎓 Graduated in Systems Analysis and Development at FATEC  
 💻 Experience in both frontend and backend development  
 🌎 Exploring new technologies and building software solutions  
-<<<<<<< HEAD
 🧠 Interested in collaborative projects and continuous learning
-=======
-🧠 Interested in collaborative projects and continuous learning
-
-> > > > > > > 9fae9dd7b023c672efd1bfb66f1f96695fe427c9
 
 ## 🛠️ Tech Skills
 
@@ -33,9 +28,6 @@ I'm a **Full Stack Developer** with over **two years** of experience building sc
 <img src="https://raw.githubusercontent.com/gisanches/gisanches/output/snake.svg" alt="Snake animation" />
 
 ###
-
-🔢 Visits: 0
-
 <div align="center" width="100%">
   <img width="63%" src="https://github-readme-stats.vercel.app/api?username=gisanches&theme=dracula&show_icons=true" />
   <img width="32.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gisanches&theme=dracula" />
@@ -43,4 +35,5 @@ I'm a **Full Stack Developer** with over **two years** of experience building sc
 <br>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gisanches&color=a626c9" alt="Profile views" />
+  🔢 Visits: 0
 </p>
