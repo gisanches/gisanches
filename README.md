@@ -26,9 +26,10 @@ I'm a **Full Stack Developer** with over **two years** of experience building sc
 <img src="https://raw.githubusercontent.com/gisanches/gisanches/output/snake.svg" alt="Snake animation" />
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" width="80%" alt="streak graph"  />
 </div>
 
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=gisanches&theme=dracula&show_icons=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gisanches&theme=dracula" />
+<div align="center" width="80%">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=gisanches&theme=dracula&show_icons=true" />
+  <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gisanches&theme=dracula" />
+</div>
