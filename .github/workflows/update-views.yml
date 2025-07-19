@@ -18,7 +18,7 @@ jobs:
       - name: Update README
         run: |
           VISITS=$(cat views.json | grep -oP '"value":\K\d+')
-          sed -i "s/🔢 Visits: .*/🔢 Visits: $VISITS/" README.md
+          sed -i "s/Visits-[0-9]\+/Visits-$VISITS/" README.md
 
       - name: Commit and push
         run: |
