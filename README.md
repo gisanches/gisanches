@@ -34,3 +34,5 @@ I'm a **Full Stack Developer** with over **two years** of experience building sc
   <img width="32.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gisanches&theme=dracula" />
 </div>
 <br>
+
+![Visits](https://visit-counter-kappa.vercel.app/api/visits)
