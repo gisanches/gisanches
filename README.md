@@ -33,7 +33,5 @@ I'm a **Full Stack Developer** with over **two years** of experience building sc
   <img width="32.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gisanches&theme=dracula" />
 </div>
 <br>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gisanches&color=a626c9" alt="Profile views" />
-  🔢 Visits: 0
-</p>
+
+![👁 Visits](https://img.shields.io/badge/Visits-0-8a63d2?style=flat-square)
