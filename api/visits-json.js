@@ -1,33 +1,45 @@
-import { supabase } from '../lib/supabase.js';
+import { supabase } from '../lib/supabase.js'
 
-export default async function handler(req, res) {
+export default async function (req, res) {
   if (req.method !== 'GET') {
-    return res.status(405).json({ error: 'Method not allowed' });
+    return res.status(405).json({ error: "Method not allowed" });
   }
 
-  const { data, error } = await supabase
-    .from('visits_gisanches')
+  const { data: current, error: getError } = await supabase
+    .from('visits')
     .select('count')
-    .eq('id', 1)
-    .single();
+    .eq('id', 1);
 
-  if (error || !data) {
-    return res.status(500).json({ error: error?.message || 'No data' });
+  if (getError || !current || !current[0]) {
+    return res.status(500).json({
+      schemaVersion: 1,
+      label: "visits",
+      message: "error",
+      color: "red"
+    });
   }
 
-  const newCount = data.count + 1;
+  const newCount = current[0].count + 1;
 
-  await supabase
-    .from('visits_gisanches')
+  const { error: updateError } = await supabase
+    .from('visits')
     .update({ count: newCount })
     .eq('id', 1);
 
-  const svg = `
-    <svg xmlns="http://www.w3.org/2000/svg" width="100" height="20">
-      <text x="50" y="14" text-anchor="middle" font-size="12">Visits: ${newCount}</text>
-    </svg>
-  `;
-  res.setHeader('Content-Type', 'image/svg+xml');
-  res.setHeader('Access-Control-Allow-Origin', '*');
-  return res.status(200).send(svg);
+  if (updateError) {
+    return res.status(500).json({
+      schemaVersion: 1,
+      label: "visits",
+      message: "error",
+      color: "red"
+    });
+  }
+
+  res.setHeader('Content-Type', 'application/json');
+  return res.status(200).json({
+    schemaVersion: 1,
+    label: "visits",
+    message: String(newCount),
+    color: "8a63d2"
+  });
 }
