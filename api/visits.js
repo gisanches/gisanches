@@ -6,7 +6,7 @@ export default async function (req, res) {
   }
 
   const { data: current, error: getError } = await supabase
-    .from('visits')
+    .from('visits_gisanches')
     .select('count')
     .eq('id', 1)
     .single();
@@ -16,7 +16,7 @@ export default async function (req, res) {
   }
 
   const { data, error: updateError } = await supabase
-    .from('visits')
+    .from('visits_gisanches')
     .update({ count: current.count + 1 })
     .eq('id', 1)
     .select();
