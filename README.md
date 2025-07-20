@@ -37,6 +37,8 @@ I'm a **Full Stack Developer** with over **two years** of experience building sc
 
 <br>
 <p align="center">
-  <img src="https://img.shields.io/endpoint?url=https://gisanches.vercel.app/api/visits-json&cacheSeconds=10" alt="Visits" />
+  <img
+    src="https://img.shields.io/endpoint?url=https://gisanches.vercel.app/api/visits-json&cacheSeconds=10&v=2"
+    alt="Visits"
+  />
 </p>
-
