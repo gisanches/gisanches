@@ -33,10 +33,3 @@ I'm a **Full Stack Developer** with over **two years** of experience building sc
   <img width="32.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gisanches&theme=dracula" />
 </div>
 <br>
-
-<p align="center">
-  <img
-    src="https://img.shields.io/endpoint?url=https://gisanches.vercel.app/api/visits-json&cacheSeconds=10&v=2"
-    alt="Visits"
-  />
-</p>
